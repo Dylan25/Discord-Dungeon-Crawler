@@ -128,7 +128,7 @@ bot.add_cog(commands(bot))
 
 
 
-#bot.login('xboxer8887"googlemail.com', 'bottest4321')
+#bot.login('user', 'pass')
 #print('working')
-bot.run('MzI2NTY0NTY3NDg2MzAwMTk5.DCpFsA.mro-uSf6U7uPsa1gS7BLU7FiQzE')
+bot.run('token')
 print('double working')
